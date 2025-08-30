@@ -1,0 +1,23 @@
+The basics of quantum computing and how quantum computers are different from the normal computers we  are using
+
+
+
+Normal vs Quantum Computers
+
+🖥 Normal Computers
+	•	Use bits: each is either 0 or 1.
+	•	Example: a light switch can only be OFF (0) or ON (1).
+	•	If you run the same code with the same input, you always get the same output.
+
+⚛ Quantum Computers
+	•	Use qubits: each can be 0, 1, or both at once (superposition).
+	•	Real-life example: think of a spinning coin.
+	•	When it’s spinning, it’s a mix of heads (0) and tails (1).
+	•	When you catch it, it “collapses” to either heads or tails (like measurement in quantum).
+	•	If you run the same quantum program many times, you may see different results. Together, these results show the probability distribution of all possibilities.
+
+Main difference:
+	•	Classical = deterministic, one definite answer.
+	•	Quantum = probabilistic, many possibilities until measured.
+
+
